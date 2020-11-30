@@ -1,8 +1,6 @@
 package com.hfad.starbuzz;
 
-/**
- * Created by davidg on 30/04/2017.
- */
+
 
 public class Drink {
     private String name; private String description; private int imageResourceId;
